@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-my-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Under My Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-my-skin/) |
+| **Get License** | [Obtain a Music License for Under My Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-my-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got this heat in the middle of a cold dark night
+> Got your shadow dancing in the pale moonlight
+> Every time you look at me the room starts spinning
+> Yeah, you know exactly how to pull me right in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
